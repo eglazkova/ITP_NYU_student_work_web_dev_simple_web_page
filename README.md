@@ -38,8 +38,6 @@ Positioning is still a huge subject to learn for me.
 
 Nevertheless, by googling I learned about 'weirdest CSS colors' and successfully used one of them called 'thistle'. 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/W3JVCwG/Screenshot-2020-02-01-at-21-10-11.png" alt="Screenshot-2020-02-01-at-21-10-11" border="0"></a>
-
 However, that was fun! (Okay, it wasn't but I loved it). And I definitely need to learn positioning with CSS.
 
 <a href="https://ibb.co/PrSY7Cq"><img src="https://i.ibb.co/7S9zwys/Screenshot-2020-02-01-at-22-14-50.png" alt="Screenshot-2020-02-01-at-22-14-50" border="0"></a>
